@@ -23,9 +23,9 @@ This project leverages advanced computer vision techniques and unsupervised lear
 
 ## 👥 Creators  
 
-- **[HaZhul](https://github.com/your-profile)** 
+- **[HaZhul](https://github.com/HaZhul)** 
     - Designed and implemented the **architecture of the neural networks**, focusing on clustering, restoration, and upscaling. 
-- **[Collaborator Name](https://github.com/collaborator-profile)**  
+- **[FoxTold](https://github.com/FoxTold)** 
     - Focused on **application development**, ensuring the integration and usability of the models for practical use cases.  
 
 
